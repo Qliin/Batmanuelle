@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - danger
+  - building
+  - grapplePoint
+  - hook
+  - street
+  - BoundRight
+  - BoundTop
+  - BoundBottom
+  - BoundLeft
+  - Spawner
+  - GM
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Wall
+  - Bat
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2551766099
+    locked: 0
+  - name: Buildings
+    uniqueID: 2411315355
+    locked: 0
+  - name: Bat
+    uniqueID: 1600346525
+    locked: 0
