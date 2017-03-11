@@ -43,7 +43,7 @@ public class Spawner : MonoBehaviour
 			}
 		}
 
-		yield return new WaitForSeconds(3);
+		yield return new WaitForSeconds(1.5f);
 		StartCoroutine(SpawnWalls());
 	}
 

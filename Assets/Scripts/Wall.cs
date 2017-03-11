@@ -7,7 +7,7 @@ public class Wall : MonoBehaviour
 	private Rigidbody2D w_rigidbody;
 	private Transform spawner;
 	private Transform leftBound;
-	private float moveSpeed = 150f;
+	private float moveSpeed = 250f;
 
 	void Awake () 
 	{
